@@ -15,7 +15,10 @@ bun dev
 ```
 Second, run the json server:
 
-Open new terminal and run : npx json-server --watch db.json --port 5001
+Open new terminal and run : 
+```
+npx json-server --watch db.json --port 5001
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
