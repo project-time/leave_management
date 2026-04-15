@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@test.com",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2",
+      "name": "John Manager",
+      "email": "manager@test.com",
+      "password": "password123",
+      "role": "MANAGER"
+    },
+    {
+      "id": "3",
+      "name": "Alice Employee",
+      "email": "employee@test.com",
+      "password": "password123",
+      "role": "EMPLOYEE"
+    },
+    {
+      "name": "Bhaargav",
+      "email": "bhaaargav@yahoo.com",
+      "password": "bhaargav123",
+      "role": "MANAGER",
+      "id": "jaipIaFb6wM"
+    },
+    {
+      "name": "Gautham",
+      "email": "gautham@gmail.com",
+      "password": "123456789",
+      "role": "EMPLOYEE",
+      "id": "Kjp9nmeIcNA"
+    },
+    {
+      "name": "FRANKLINE",
+      "email": "frankline@gmail.com",
+      "password": "victor",
+      "role": "EMPLOYEE",
+      "id": "EeMnNg90lOM"
+    },
+    {
+      "name": "GOBIKA",
+      "email": "gobika@gmail.com",
+      "password": "123456",
+      "role": "MANAGER",
+      "id": "yKDZvEbE35w"
+    },
+    {
+      "name": "GAUTHAM",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "role": "EMPLOYEE",
+      "id": "_U9GrNVEkKA"
+    },
+    {
+      "name": "CHANDRU",
+      "email": "chandru@gmail",
+      "password": "123456",
+      "role": "EMPLOYEE",
+      "id": "rGKVhq1_kKs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
